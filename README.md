@@ -1,0 +1,2 @@
+# GemshimWishCounter
+Gemshim Wish Counter
